@@ -3,11 +3,11 @@
 #### Technical Skills: EXCEL, SQL SERVER, POWER BI, PYTHON
 
 ## Education
-- |Course|School/University|  
-- |-----------------------------|-------------------------------------------------------|  
-- |B.E., Mechanical Engineering|Bannari Amman Institute of Technology (_June 2018_)|    							       		
-- |H.S.C|Vetri Vikaas Boys Hr. Sec. School (_June 2014_)|    
-
+- |Course|School/University|
+- |-----------------------------|-------------------------------------------------------|
+- |B.E., Mechanical Engineering|Bannari Amman Institute of Technology (_June 2018_)|
+- |H.S.C|Vetri Vikaas Boys Hr. Sec. School (_June 2014_)|
+  
 ## Work Experience
 - **Data Analyst @ Om Sakthi Tex Pvt Ltd (_June 2022 - Present_)**      
     - Data Analysis and Interpretation:Utilized SQL queries and advanced Excel functions to extract and analyze large datasets for various business units.  
