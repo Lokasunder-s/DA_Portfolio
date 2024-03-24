@@ -54,6 +54,9 @@
 **Optimization:** Optimize queries and database structures for better performance and efficiency.   
 ##### HR Bonus Analysis   
 ##### Pizza Sales Analysis  
+- This analysis gains insights into various aspects of pizza sales, including total revenue, average order value, sales trends, popular pizza categories, sizes, and top-selling pizzas. 
+![image](https://github.com/Lokasunder-s/DA_Portfolio/assets/154940528/0c9cb4dd-2a29-4b33-aa60-887ca21b8bf4)  
+
 
 ### Python  
 **Data Acquisition:** Obtain data from different sources such as files, databases, APIs, or web scraping.   
