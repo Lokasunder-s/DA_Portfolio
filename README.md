@@ -5,7 +5,7 @@
 ## Education
 - |Course|School/University|
 - |B.E., Mechanical Engineering|Bannari Amman Institute of Technology (_June 2018_)|
-- |H.S.C|    &nbsp; &nbsp; Vetri Vikaas Boys Hr. Sec. School (_June 2014_)|
+- |H.S.C|    &nbsp; &nbsp; &nbsp; &nbsp; Vetri Vikaas Boys Hr. Sec. School (_June 2014_)|
   
 ## Work Experience
 - **Data Analyst @ Om Sakthi Tex Pvt Ltd (_June 2022 - Present_)**      
