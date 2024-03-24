@@ -46,6 +46,28 @@
 - Gain a competitive edge by leveraging our comprehensive dashboard, revealing trends and patterns in both Amazon product sales and Prime Video consumption.
   ![image](https://github.com/Lokasunder-s/DA_Portfolio/assets/154940528/68f04bcd-164e-4afb-96c6-a410163dba56)![image](https://github.com/Lokasunder-s/DA_Portfolio/assets/154940528/b6d952ba-eaf9-440c-9090-9d8b43c68be6)
 
+### SQL SERVER
+**Data Retrieval:** Write SQL queries to extract relevant data from the database tables.
+**Data Transformation:** Clean and prepare the data using SQL functions and expressions.
+**Data Aggregation:** Aggregate data to calculate key metrics using SQL aggregate functions.
+**Data Analysis:** Perform analytical tasks such as statistical analysis and trend identification using SQL queries.
+**Optimization:** Optimize queries and database structures for better performance and efficiency.
+##### HR Bonus Analysis   
+##### Pizza Sales Analysis  
+
+### Python  
+**Data Acquisition:** Obtain data from different sources such as files, databases, APIs, or web scraping.
+**Data Cleaning and Preprocessing:** Clean the data by handling missing values, removing duplicates, and standardizing formats.
+**Exploratory Data Analysis (EDA):** Explore the data to understand its characteristics, distributions, and relationships through statistical summaries and visualizations.
+**Feature Engineering:** Create new features or transform existing ones to improve model performance and interpretability.
+**Model Selection and Training:** Choose appropriate models based on the problem and data characteristics, train them using the data, and evaluate their performance.
+**Model Evaluation:** Assess the performance of the trained models using suitable evaluation metrics and cross-validation techniques.
+**Model Tuning and Optimization:** Fine-tune model parameters to improve performance using techniques like grid search or random search.
+**Prediction and Inference:** Use the trained models to make predictions on new data or infer insights from the analysis.
+**Visualization and Reporting:** Visualize analysis results and model outputs using libraries like Matplotlib, Seaborn, or Plotly, and communicate findings through reports or presentations.
+##### Chat Analysis  
+
+
 
   
 
