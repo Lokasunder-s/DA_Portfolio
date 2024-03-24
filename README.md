@@ -21,13 +21,13 @@
 
 ## Projects
 ### EXCEL
-**Import Data:** Bring your data into Excel from various sources.
-**Clean and Format Data:** Remove errors, duplicates, and inconsistencies. Standardize formats for easier analysis.
-**Organize Data:** Arrange data in a structured format for clarity and ease of analysis.
-**Perform Calculations:** Use Excel functions and formulas to derive insights from the data.
-**Visualize Data:** Create charts and graphs to represent data visually and identify patterns.
-**Interpret Data:** Analyze visualizations and summary statistics to draw insights and conclusions.
-**Report Findings:** Summarize analysis and findings in reports or presentations for stakeholders. 
+**Import Data:** Bring your data into Excel from various sources.   
+**Clean and Format Data:** Remove errors, duplicates, and inconsistencies. Standardize formats for easier analysis.   
+**Organize Data:** Arrange data in a structured format for clarity and ease of analysis.   
+**Perform Calculations:** Use Excel functions and formulas to derive insights from the data.   
+**Visualize Data:** Create charts and graphs to represent data visually and identify patterns.   
+**Interpret Data:** Analyze visualizations and summary statistics to draw insights and conclusions.   
+**Report Findings:** Summarize analysis and findings in reports or presentations for stakeholders.   
 ##### HR Training Analysis
 
 ### POWER BI
