@@ -1,4 +1,4 @@
-# Data Analyst
+# MIS Executive
 
 #### Technical Skills: EXCEL, SQL SERVER, POWER BI, PYTHON
 
@@ -8,7 +8,12 @@
 - |H.S.C|    &nbsp; &nbsp; &nbsp; &nbsp; Vetri Vikaas Boys Hr. Sec. School (_June 2014_)|
   
 ## Work Experience
-- **Data Analyst @ Om Sakthi Tex Pvt Ltd (_June 2022 - Present_)**      
+- **MIS Executive @ Swiggy (_May 2024 - Present_)**      
+    - Data Retrieval: Extract refund data from Swiggy Instamart platform using SQL and other database management tools.
+    - Data Verification: Utilize Google Sheets and Excel to cross-check refund cases, validating accuracy by analysing associated images and videos.
+    - Data Analysis and Reporting: Compile and analyse data to identify trends and discrepancies, ensuring data integrity and supporting decision-making processes. 
+    - Process Improvement: Suggest and implement process improvements to enhance the accuracy and efficiency of refund verification.
+- **Reporting Analyst @ Om Sakthi Tex Pvt Ltd (_June 2022 - May 2024_)**      
     - Data Analysis and Interpretation:Utilized SQL queries and advanced Excel functions to extract and analyze large datasets for various business units.  
     - Report Development:Designed and developed comprehensive reports and dashboards using tools such as Power BI, and Excel.  
     - Automated Reporting Processes:Implemented automation scripts to streamline recurring reporting processes, reducing manual effort and increasing efficiency by 30%.  
@@ -17,6 +22,7 @@
 ## Certifications
 - **PL-300** MICROSOFT CERTIFIED: POWER BI DATA ANALYST ASSOCIATE
   ![PBI_Associate](https://github.com/Lokasunder-s/DA_Portfolio/assets/154940528/f3344e7d-1c87-4d20-9712-39da7eb191b4)
+- **Tutorialspoint:** Advanced Excel (Power Query) Online Training
 
 
 ## Projects
