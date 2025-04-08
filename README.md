@@ -1,6 +1,6 @@
 # MIS Executive
 
-#### Technical Skills: EXCEL, SQL SERVER, POWER BI, PYTHON
+#### Technical Skills: EXCEL,GOOGLE SHEETS, SQL SERVER,SNOWFLAKE, POWER BI, PYTHON
 
 ## Education
 - |Course|School/University|
