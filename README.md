@@ -30,7 +30,17 @@
 **Interpret Data:** Analyze visualizations and summary statistics to draw insights and conclusions.   
 **Report Findings:** Summarize analysis and findings in reports or presentations for stakeholders.   
 ##### HR Training Analysis
-![image](https://github.com/Lokasunder-s/DA_Portfolio/assets/6641811e-5059-4e2c-86ea-d3d3baf01855)
+![{FF27C834-926B-4733-8E80-432DAAE730E5}](https://github.com/user-attachments/assets/a1487646-1f27-4f99-92a2-94dbd86aa003)
+##### Sales Dashboard Analysis
+![{E57AC88B-5CC0-4AA1-ABCB-DA44D6F5555E}](https://github.com/user-attachments/assets/46b89d2e-ca4a-4768-b24e-7e4263129b12)
+##### Sales Dashboard Analysis
+![{3704D83C-D3A4-4736-98A3-BF6FB87314F4}](https://github.com/user-attachments/assets/6d4b6ef6-ff5d-4683-a9bb-71f601509d8b)
+##### Financial loan Analysis
+**Dashboard | Overview**
+![{DBD09B50-71DB-494C-A379-2FE8CB9E1050}](https://github.com/user-attachments/assets/6fadca78-216f-484a-baa6-e9f1baf32543)
+**Dashboard | Summary**
+![{6CB52522-EAC7-48AD-A972-D305F78EB9A2}](https://github.com/user-attachments/assets/0d87f7d5-527d-4ac2-9f7c-1168f6cbfc0c)
+
 
 
 ### POWER BI
