@@ -30,6 +30,8 @@
 **Interpret Data:** Analyze visualizations and summary statistics to draw insights and conclusions.   
 **Report Findings:** Summarize analysis and findings in reports or presentations for stakeholders.   
 ##### HR Training Analysis
+![image](https://github.com/Lokasunder-s/DA_Portfolio/assets/6641811e-5059-4e2c-86ea-d3d3baf01855)
+
 
 ### POWER BI
 **Data Collection:** Connect Power BI to various data sources and import or query data into Power BI.  
