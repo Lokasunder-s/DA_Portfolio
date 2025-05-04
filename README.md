@@ -10,14 +10,9 @@
 ## Work Experience
 - **MIS Executive @ Swiggy (_May 2024 - Present_)**      
     - Data Retrieval: Extract refund data from Swiggy Instamart platform using SQL and other database management tools.
-    - Data Verification: Utilize Google Sheets and Excel to cross-check refund cases, validating accuracy by analysing associated images and videos.
-    - Data Analysis and Reporting: Compile and analyse data to identify trends and discrepancies, ensuring data integrity and supporting decision-making processes. 
+    - Data Verification: Utilize Google Sheets and Excel to cross-check refund cases, validating accuracy by analysing associated remarks. Leverage Power BI for visual verification of trends and discrepancies.
+    - Data Analysis and Reporting: Compile and analyze data to identify trends, discrepancies, and insights. Use Snowflake’s SQL functions to aggregate and manipulate data, and Power BI to create detailed reports and dashboards for better decisionmaking. 
     - Process Improvement: Suggest and implement process improvements to enhance the accuracy and efficiency of refund verification.
-- **Reporting Analyst @ Om Sakthi Tex Pvt Ltd (_June 2022 - May 2024_)**      
-    - Data Analysis and Interpretation:Utilized SQL queries and advanced Excel functions to extract and analyze large datasets for various business units.  
-    - Report Development:Designed and developed comprehensive reports and dashboards using tools such as Power BI, and Excel.  
-    - Automated Reporting Processes:Implemented automation scripts to streamline recurring reporting processes, reducing manual effort and increasing efficiency by 30%.  
-    - Performance Metrics:Developed and maintained key performance indicators (KPIs) to track and measure departmental and organizational performance.
 
 ## Certifications
 - **PL-300** MICROSOFT CERTIFIED: POWER BI DATA ANALYST ASSOCIATE
