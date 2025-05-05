@@ -81,7 +81,20 @@
 **Model Tuning and Optimization:** Fine-tune model parameters to improve performance using techniques like grid search or random search.   
 **Prediction and Inference:** Use the trained models to make predictions on new data or infer insights from the analysis.   
 **Visualization and Reporting:** Visualize analysis results and model outputs using libraries like Matplotlib, Seaborn, or Plotly, and communicate findings through reports or presentations.   
-##### Chat Analysis  
+##### Chat Analysis 
+
+### Blinkit Analysis in various tools
+#### Achieved using Excel
+![image](https://github.com/user-attachments/assets/36c4f9be-cfeb-4401-a639-4a8b8f9c4a65)
+
+#### Achieved using Power BI
+![image](https://github.com/user-attachments/assets/d006c422-5089-4af8-ad74-6ec3f889c47d)
+
+#### Achieved using Python-Streamlit
+![{C655C1A9-1A09-4689-89E0-247F74C9B578}](https://github.com/user-attachments/assets/710bb1cd-9bcb-41ab-8c6f-2b7910c60ff3)
+
+
+
 
 
 
